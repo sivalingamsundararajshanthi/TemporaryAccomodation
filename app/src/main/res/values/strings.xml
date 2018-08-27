@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TemporaryAccomodation</string>
+    <string name="email_id_tv">Email</string>
+    <string name="password_id_tv">Password</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="login_buuton_text">Login</string>
+    <string name="register_tv_text">Not a member? Register!</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>

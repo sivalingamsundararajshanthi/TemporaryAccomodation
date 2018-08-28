@@ -7,4 +7,6 @@
     <string name="login_buuton_text">Login</string>
     <string name="register_tv_text">Not a member? Register!</string>
     <string name="title_activity_register">RegisterActivity</string>
+    <string name="register_title">Register!</string>
+    <string name="title_activity_detail">DetailActivity</string>
 </resources>
